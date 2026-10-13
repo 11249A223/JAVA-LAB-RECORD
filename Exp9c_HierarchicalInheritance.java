@@ -1,3 +1,5 @@
+# Experiment 9(c): Hierarchical Inheritance in Java
+
 ## Aim
 
 To write a Java program to demonstrate hierarchical inheritance using classes.
